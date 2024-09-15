@@ -25,11 +25,6 @@ A **correlação** mede a força e a direção da relação linear entre duas va
 
 1. **Coeficiente de Correlação de Pearson**:
     - Mede a relação linear entre duas variáveis numéricas. Valores variam de -1 (correlação negativa perfeita) a +1 (correlação positiva perfeita).
-    
-    Fórmula:
-    \[
-    r = \frac{\sum (X_i - \bar{X})(Y_i - \bar{Y})}{\sqrt{\sum (X_i - \bar{X})^2 \sum (Y_i - \bar{Y})^2}}
-    \]
 
 2. **Coeficiente de Correlação de Spearman**:
     - Mede a correlação monotônica (não necessariamente linear) entre duas variáveis. É usado quando os dados não atendem aos requisitos de linearidade ou quando possuem outliers.
