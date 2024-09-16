@@ -117,4 +117,4 @@ Envie um **pull request** para sugerir novas formas de modelar e analisar depend
 
 ---
 
-Este README fornece uma visão geral sobre dados com dependências condicionais, explicando como eles podem ser modelados e analisados.
+
