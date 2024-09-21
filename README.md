@@ -90,6 +90,3 @@ for registro in dados:
 Sinta-se à vontade para contribuir com este projeto. Se você encontrar algum problema ou tiver sugestões de melhorias, por favor, abra uma issue ou envie um pull request.
 
 
----
-
-Este README fornece uma visão geral de como começar a usar o `Faker` para gerar dados fictícios, o que pode ser muito útil para seus projetos.
